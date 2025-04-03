@@ -10,6 +10,7 @@ public class Test3Application {
 		String a = "mike";
 		int x = 10;
 		int y = 20;
+		double m = 10.3;
 		boolean isPresent = false;
 		SpringApplication.run(Test3Application.class, args);
 	}
