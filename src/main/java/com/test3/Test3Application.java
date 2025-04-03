@@ -7,8 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test3Application {
 
 	public static void main(String[] args) {
-		int x =10;
+		String a = "mike";
+		int x = 10;
 		int y = 20;
+		double m = 10.3;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
