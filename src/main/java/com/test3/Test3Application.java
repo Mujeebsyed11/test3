@@ -13,6 +13,7 @@ public class Test3Application {
 		double m = 10.3;
 		boolean isPresent = false;
 		float f = 15.5F;
+		char c = 'a';
 		SpringApplication.run(Test3Application.class, args);
 	}
 
