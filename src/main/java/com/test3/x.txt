@@ -15,7 +15,14 @@ Class B{
 
 }
 
+<<<<<<< Updated upstream
 #Feature2
 Class D{
 
 }
+=======
+#Feature1
+Class C{
+
+}
+>>>>>>> Stashed changes
